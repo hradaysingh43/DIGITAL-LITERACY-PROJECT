@@ -1,4 +1,4 @@
-# DIGITAL-LITERACY-PROJECT
+[poiu6, v8g ff}{iyuuop]\ ty 89op   -=\ DIGITAL-LITERACY-PROJECT
 Digital Literacy Project – CSE0001
 Student Details
 Name: Hraday Singh Bisen
@@ -12,7 +12,7 @@ Institution: VIT Bhopal University
  Project Overview
 
 This repository contains my Digital Literacy Portfolio, created as part of the CSE0001 course.
-As a Student Digital Ambassador, the goal of this project was to help students understand and effectively use digital tools, build a professional online presence, and practice safe and responsible online behavior.
+As a  ;='Student Digital Ambassador, the goal of this project was to help students understand and effectively use digital tools, build a professional online presence, and practice safe and responsible online behavior.
 
 The project is divided into five tasks, each focusing on a different aspect of digital literacy, including awareness, online profiles, coding platforms, communication, and cyber safety.
 
