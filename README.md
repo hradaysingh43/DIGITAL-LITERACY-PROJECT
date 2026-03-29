@@ -49,8 +49,8 @@ Task 2: Student Digital Portfolio
 
 Profiles created/updated on:
 
-GitHub → 
-LinkedIn → [Add your profile link]
+GitHub → https://github.com/hradaysingh43/Hradaysingh43
+LinkedIn → https://www.linkedin.com/feed/
 Kaggle/Other → [Optional link]
 
 Purpose:
