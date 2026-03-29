@@ -51,12 +51,12 @@ Profiles created/updated on:
 
 GitHub → https://github.com/hradaysingh43/Hradaysingh43
 LinkedIn → https://www.linkedin.com/feed/
-Kaggle/Other → [Optional link]
+Kaggle/Other → https://www.kaggle.com/hradaysingh
 
 Purpose:
-
 Build professional online identity
 Showcase skills and learning journey
+
 Task 3: Coding & Collaboration Platforms
 Completed a beginner problem on:
 HackerRank / CodeChef / HackerEarth
