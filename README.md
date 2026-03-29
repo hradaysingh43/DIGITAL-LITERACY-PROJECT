@@ -66,7 +66,7 @@ Created a Google Form Quiz on digital literacy
 
 Task 4: Email & Communication Skills
 Drafted:
-Email to professor (assignment extension)
+Email to professor 
 Email for internship application
 Created:
 Social Media Do’s & Don’ts checklist
